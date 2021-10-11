@@ -1,6 +1,6 @@
-# O site está sendo desenvolvido pelo grupo ATHO.
+# Site para Salão de beleza
+Tomando parte do nosso portfólio... Esse site é um modelo de venda com foco nas **Empresas de beleza**
 
-Este projeto é um portfólio que será exibido para os nossos clientes, para que os mesmos possam analisar e aprovar ou não o nosso trabalho.
-
+---
 **Status do Projeto**:
 Em desenvolvimento...
